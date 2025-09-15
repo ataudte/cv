@@ -147,7 +147,7 @@ Seasoned DDI (DNS, DHCP, IPAM) Specialist and Technical Leader with over 15 year
   > Delivering tailored DNS, DHCP and IPAM solutions that streamline networks and boost efficiency.
 * **Principal DDI Consultant**, n3k Informatik GmbH, Gotha, Germany (01/2023 to 12/2024)
   > Presales, evaluation, design, migration, training and support of DDI projects.
-* **CEO**, honest consulting GmbH i.L., Gotha, Germany (07/2019 to 12/2022)
+* **CEO**, honest consulting GmbH, Gotha, Germany (07/2019 to 12/2022)
   > Effortless, manageable and future ready DNS and DHCP.
 * **Consultant**, n3k Informatik GmbH, Gotha, Germany (08/2017 to 06/2019)
   > Presales, evaluation, design, migration, training and support of DDI projects.
