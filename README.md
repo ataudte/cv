@@ -1,5 +1,5 @@
 # Andreas Taudte
-> Senior Solution Expert DDI
+> Seasoned DDI Specialist
 
 ## Professional Summary
 Seasoned DDI (DNS, DHCP, IPAM) Specialist and Technical Leader with over 15 years of experience delivering high-impact solutions for enterprise environments. Proven expertise in vendor-neutral consulting, pre-sales enablement, and large-scale deployments. Adept at automating network services to reduce operational complexity and accelerate large-scale migrations and integrations. Trusted advisor to clients across a wide range of industries, including private enterprise, government, and service providers.
