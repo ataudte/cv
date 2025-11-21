@@ -167,7 +167,7 @@ Seasoned DDI (DNS, DHCP, IPAM) Specialist and Technical Leader with over 15 year
 * **Accredited IT Technician**, Andreas Gordon Schule Erfurt (2002 to 2006)
 
 ## Volunteering
-* **Initiator**, DDI User Group (2019 to present)
+* **Initiator**, DDI User Group (01/2020 to present)
   > Vendor neutral community for DNS, DHCP and IPAM professionals.
 * **Board Member**, ITnet Thüringen e.V. (05/2022 to 04/2024)
   > Contributor to strategic growth and collaboration in Thuringia’s IT sector.
