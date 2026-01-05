@@ -2,7 +2,7 @@
 > Seasoned DDI Specialist
 
 ## Professional Summary
-Seasoned DDI (DNS, DHCP, IPAM) Specialist and Technical Leader with over 15 years of experience delivering high-impact solutions for enterprise environments. Proven expertise in vendor-neutral consulting, pre-sales enablement, and large-scale deployments. Adept at automating network services to reduce operational complexity and accelerate large-scale migrations and integrations. Trusted advisor to clients across a wide range of industries, including private enterprise, government, and service providers.
+Senior DDI specialist with over 15 years of experience designing and explaining DNS, DHCP, and IPAM solutions for enterprise environments, with a strong focus on technical enablement, product evangelization, and competitive positioning. Extensive experience translating complex architectures into clear technical narratives and business value, building demos and technical content, and enabling sales, partners, and customers. Deep involvement in integration ecosystems, acting as a bridge between product management, engineering, sales, and the market to ensure accurate and credible messaging.
 
 ## Skills
 <details>
@@ -143,6 +143,8 @@ Seasoned DDI (DNS, DHCP, IPAM) Specialist and Technical Leader with over 15 year
 </details>
 
 ## Experience
+* **Senior Technical Marketing Manager**, EfficientIP GmbH, Gotha, Germany (01/2026 to present)
+  > Translating deep DDI expertise into clear technical stories that help sales teams, partners, and customers in practice.
 * **CEO**, honest consulting GmbH i.L., Gotha, Germany (07/2019 to present)
   > Effortless, manageable and future ready DNS and DHCP.
 * **Senior Solution Expert DDI**, p-square GmbH, Gotha, Germany (01/2025 to 11/2025)
