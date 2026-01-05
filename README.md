@@ -144,7 +144,7 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
 
 ## Experience
 * **Senior Technical Marketing Manager**, EfficientIP GmbH, Gotha, Germany (01/2026 to present)
-  > Translating deep DDI expertise into clear technical stories that help sales teams, partners, and customers in practice.
+  > Turning deep DDI expertise into clear technical stories for sales, partners, and customers.
 * **CEO**, honest consulting GmbH i.L., Gotha, Germany (07/2019 to present)
   > Effortless, manageable and future ready DNS and DHCP.
 * **Senior Solution Expert DDI**, p-square GmbH, Gotha, Germany (01/2025 to 11/2025)
