@@ -147,7 +147,7 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
   > Turning deep DDI expertise into clear technical stories for sales, partners, and customers.
 * **CEO**, honest consulting GmbH i.L., Gotha, Germany (07/2019 to present)
   > Effortless, manageable and future ready DNS and DHCP.
-* **Senior Solution Expert DDI**, p-square GmbH, Gotha, Germany (01/2025 to 11/2025)
+* **Senior Solution Expert DDI**, p-square GmbH, Gotha, Germany (01/2025 to 12/2025)
   > Delivering tailored DNS, DHCP and IPAM solutions that streamline networks and boost efficiency.
 * **Principal DDI Consultant**, n3k Informatik GmbH, Gotha, Germany (01/2023 to 12/2024)
   > Presales, evaluation, design, migration, training and support of DDI projects.
