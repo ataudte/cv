@@ -22,7 +22,7 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
   
 * BlueCat (BAM, BDDS, Edge, Micetro)
 * Cygna Labs (IPControl, Sapphire, VitalQIP)
-* EfficientIP (SOLIDserver)
+* EfficientIP (SOLIDserver, DNS Guardian)
 * Infoblox (NIOS)
 * ISC (BIND, DHCP, Kea)
 </details>
@@ -64,7 +64,9 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
 </details>
 <details>
   <summary>EfficientIP</summary>
-  
+
+* Certified DNS Guardian Advanced
+* Certified DNS Guardian Administrator
 * Certified DDI Advanced Administrator
 * Certified DDI Support Engineer
 * Certified DDI Administrator
@@ -96,6 +98,8 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
 
 | Year | Month | Certificate |
 |------|-------|-------------|
+| 2026 | Mar | [EfficientIP Certified DNS Guardian Advanced](certificates/ataudte_202603_EfficientIP_Certified-DNS-Guardian-Advanced.pdf)
+| 2026 | Mar | [EfficientIP Certified DNS Guardian Administrator](certificates/ataudte_202603_EfficientIP_Certified-DNS-Guardian-Administrator.pdf)
 | 2026 | Feb | [EfficientIP Certified DDI Administrator](certificates/ataudte_202602_EfficientIP_Certified-DDI-Administrator.pdf) |
 | 2025 | Jun | [Cygna Labs Certified Trainer](certificates/ataudte_202506_Cygna-Labs_Certified-Trainer.pdf) |
 | 2025 | May | [BlueCat Integrity Recertification Delta](certificates/ataudte_202505_BlueCat_Integrity-Recertification-Delta.pdf) |
