@@ -98,6 +98,7 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
 
 | Year | Month | Certificate |
 |------|-------|-------------|
+| 2026 | Apr | [EfficientIP Certified DDI Advanced Administrator](certificates/ataudte_202604_EfficientIP_Certified-DDI-Advanced-Administrator.pdf) |
 | 2026 | Mar | [EfficientIP Certified DNS Guardian Advanced](certificates/ataudte_202603_EfficientIP_Certified-DNS-Guardian-Advanced.pdf)
 | 2026 | Mar | [EfficientIP Certified DNS Guardian Administrator](certificates/ataudte_202603_EfficientIP_Certified-DNS-Guardian-Administrator.pdf)
 | 2026 | Feb | [EfficientIP Certified DDI Administrator](certificates/ataudte_202602_EfficientIP_Certified-DDI-Administrator.pdf) |
