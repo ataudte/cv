@@ -1,8 +1,8 @@
 # Andreas Taudte
-> Seasoned DDI Specialist
+> Principal DDI Advisor
 
 ## Professional Summary
-Senior DDI specialist with over 15 years of experience designing and explaining DNS, DHCP, and IPAM solutions for enterprise environments, with a strong focus on technical enablement, product evangelization, and competitive positioning. Extensive experience translating complex architectures into clear technical narratives and business value, building demos and technical content, and enabling sales, partners, and customers. Deep involvement in integration ecosystems, acting as a bridge between product management, engineering, sales, and the market to ensure accurate and credible messaging.
+Principal DDI Advisor with over 15 years of experience helping enterprises design, secure, and modernize DNS, DHCP, and IPAM environments. Helping customers, product management, engineering, sales, and partners align technical decisions with business objectives by translating complex challenges into practical guidance and strategic direction. Recognized for technical expertise, enablement, public speaking, and industry engagement.
 
 ## Skills
 <details>
@@ -148,7 +148,9 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
 </details>
 
 ## Experience
-* **Senior Technical Marketing Manager**, EfficientIP GmbH, Gotha, Germany (01/2026 to present)
+* **Principal DDI Advisor**, EfficientIP GmbH, Gotha, Germany (08/2026 to present)
+  > Providing trusted DDI guidance to customers, partners, and internal teams.
+* **Senior Technical Marketing Manager**, EfficientIP GmbH, Gotha, Germany (01/2026 to 07/2026)
   > Turning deep DDI expertise into clear technical stories for sales, partners, and customers.
 * **CEO**, honest consulting GmbH i.L., Gotha, Germany (07/2019 to present)
   > Effortless, manageable and future ready DNS and DHCP.
@@ -158,7 +160,7 @@ Senior DDI specialist with over 15 years of experience designing and explaining 
   > Presales, evaluation, design, migration, training and support of DDI projects.
 * **Consultant**, n3k Informatik GmbH, Gotha, Germany (08/2017 to 06/2019)
   > Presales, evaluation, design, migration, training and support of DDI projects.
-* **Senior Consultant**, T Systems Multimedia Solutions GmbH, Dresden, Germany (05/2017 to 07/2017)
+* **Senior Consultant**, T-Systems Multimedia Solutions GmbH, Dresden, Germany (05/2017 to 07/2017)
   > Digital transformation initiatives including Industry 4.0 and IoT.
 * **Sales Engineer**, BlueCat Networks GmbH, Walldorf, Germany (05/2013 to 04/2017)
   > Partner enablement, presales, evaluation, design, migration and support of DDI projects.
