@@ -176,6 +176,8 @@ Principal DDI Advisor with over 15 years of experience helping enterprises desig
 * **Accredited IT Technician**, Andreas Gordon Schule Erfurt (2002 to 2006)
 
 ## Volunteering
+* **Chairperson**, FröKiGa (05/2026 to present)
+  > Helping coordinate fundraising, community activities, and parent engagement.
 * **Initiator**, DDI User Group (01/2020 to present)
   > Vendor neutral community for DNS, DHCP and IPAM professionals.
 * **Board Member**, ITnet Thüringen e.V. (05/2022 to 04/2024)
