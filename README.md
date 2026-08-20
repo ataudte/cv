@@ -2,7 +2,7 @@
 > Principal DDI Advisor
 
 ## Professional Summary
-Principal DDI Advisor with over 15 years of experience helping enterprises design, secure, and modernize DNS, DHCP, and IPAM environments. Helping customers, product management, engineering, sales, and partners align technical decisions with business objectives by translating complex challenges into practical guidance and strategic direction. Recognized for technical expertise, enablement, public speaking, and industry engagement.
+Principal DDI Advisor with over 15 years of experience helping enterprises design, secure, and modernize DNS, DHCP, and IPAM environments. Trusted advisor bridging customers, product management, engineering, sales, and partners to translate complex technical challenges into practical guidance and business value. Extensive experience in technical enablement, evangelization, and industry engagement.
 
 ## Skills
 <details>
@@ -148,10 +148,8 @@ Principal DDI Advisor with over 15 years of experience helping enterprises desig
 </details>
 
 ## Experience
-* **Principal DDI Advisor**, EfficientIP GmbH, Gotha, Germany (08/2026 to present)
+* **Principal DDI Advisor**, EfficientIP GmbH, Gotha, Germany (01/2026 to present)
   > Providing trusted DDI guidance to customers, partners, and internal teams.
-* **Senior Technical Marketing Manager**, EfficientIP GmbH, Gotha, Germany (01/2026 to 07/2026)
-  > Turning deep DDI expertise into clear technical stories for sales, partners, and customers.
 * **CEO**, honest consulting GmbH i.L., Gotha, Germany (07/2019 to present)
   > Effortless, manageable and future ready DNS and DHCP.
 * **Senior Solution Expert DDI**, p-square GmbH, Gotha, Germany (01/2025 to 12/2025)
