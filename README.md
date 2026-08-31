@@ -34,7 +34,7 @@ His career has spanned technical consulting, presales, training, solution design
 
 Throughout his career, he has developed broad expertise across leading DDI platforms and holds multiple technical and instructor certifications.
 
-Andreas is also the initiator of the DDI User Group, a vendor neutral community he founded in 2020 to bring DNS, DHCP, and IPAM professionals together to exchange knowledge and experience.
+Andreas is also the initiator of the DDI User Group, an independent community he founded in 2020 to bring DNS, DHCP, and IPAM professionals together to exchange knowledge and experience.
 
 </details>
 
