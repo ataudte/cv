@@ -2,7 +2,41 @@
 > Principal DDI Advisor
 
 ## Professional Summary
+
 Principal DDI Advisor with over 15 years of experience helping enterprises design, secure, and modernize DNS, DHCP, and IPAM environments. Trusted advisor bridging customers, product management, engineering, sales, and partners to translate complex technical challenges into practical guidance and business value. Extensive experience in technical enablement, evangelization, and industry engagement.
+
+<details>
+  <summary>Short Bio</summary>
+
+Andreas Taudte is a DDI specialist with more than 15 years of experience in DNS, DHCP, and IPAM. As Principal DDI Advisor at EfficientIP, he works with customers, partners, and internal teams to translate complex technical challenges into practical guidance and business value. His background spans consulting, presales, solution design, migration, training, technical enablement, and communication across enterprise DDI environments.
+
+</details>
+
+<details>
+  <summary>Long Bio</summary>
+
+Andreas Taudte is a DDI specialist with more than 15 years of experience in DNS, DHCP, and IPAM across enterprise environments. As Principal DDI Advisor at EfficientIP, he provides technical guidance to customers, partners, and internal teams, connecting real world requirements with product capabilities, architecture, and strategy.
+
+His career spans consulting, presales, training, solution design, migration, technical enablement, and industry engagement. He has worked extensively with technologies from EfficientIP, BlueCat, Cygna Labs, Infoblox, ISC, and Men & Mice, giving him a broad multi vendor perspective on DDI architecture and operations.
+
+Andreas specializes in making complex infrastructure topics understandable and relevant, whether through customer workshops, technical presentations, demonstrations, training, or conversations between engineering, product, sales, and the market.
+
+He is also the initiator of the DDI User Group, a vendor neutral community for DNS, DHCP, and IPAM professionals.
+
+</details>
+
+<details>
+  <summary>Professional Bio</summary>
+
+Andreas Taudte is Principal DDI Advisor at EfficientIP and has more than 15 years of experience specializing in DNS, DHCP, and IP address management. In his current role, he works with customers, partners, and internal teams on enterprise DDI strategy, architecture, security, and modernization.
+
+His career has spanned technical consulting, presales, training, solution design, migration, and technical enablement. Before joining EfficientIP, Andreas held consulting, senior specialist, and technical leadership roles, giving him extensive experience working with enterprise customers and technology partners from both technical and commercial perspectives.
+
+Throughout his career, he has developed broad expertise across leading DDI platforms and holds multiple technical and instructor certifications.
+
+Andreas is also the initiator of the DDI User Group, a vendor neutral community he founded in 2020 to bring DNS, DHCP, and IPAM professionals together to exchange knowledge and experience.
+
+</details>
 
 ## Skills
 <details>
